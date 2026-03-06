@@ -29,6 +29,7 @@ install libraries/Dependencies
 pip install -r requirements.txt
 
 streamlit run command
+```
 
 deployment link
 
