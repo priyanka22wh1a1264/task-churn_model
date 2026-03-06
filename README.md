@@ -2,8 +2,6 @@
 Dataset: Telco Customer Churn Dataset. Kaggle link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 
-
-
 ### Software and tools requirements
 1) [Github][https://github.com/]
 2) [Streamlit][https://streamlit.io/cloud]
